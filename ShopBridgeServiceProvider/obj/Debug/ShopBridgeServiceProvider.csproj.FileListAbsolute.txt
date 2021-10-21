@@ -1,0 +1,9 @@
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeServiceProvider\bin\Debug\ShopBridgeServiceProvider.dll
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeServiceProvider\bin\Debug\ShopBridgeServiceProvider.pdb
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeServiceProvider\bin\Debug\Newtonsoft.Json.dll
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeServiceProvider\bin\Debug\ShopBridgeEntities.dll
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeServiceProvider\bin\Debug\ShopBridgeEntities.pdb
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeServiceProvider\bin\Debug\Newtonsoft.Json.xml
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeServiceProvider\obj\Debug\ShopBridgeServiceProvider.csprojResolveAssemblyReference.cache
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeServiceProvider\obj\Debug\ShopBridgeServiceProvider.dll
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeServiceProvider\obj\Debug\ShopBridgeServiceProvider.pdb

@@ -1,0 +1,7 @@
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeDAL\bin\Debug\ShopBridgeDAL.dll
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeDAL\bin\Debug\ShopBridgeDAL.pdb
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeDAL\obj\Debug\ShopBridgeDAL.csprojResolveAssemblyReference.cache
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeDAL\obj\Debug\ShopBridgeDAL.dll
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeDAL\obj\Debug\ShopBridgeDAL.pdb
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeDAL\bin\Debug\ShopBridgeEntities.dll
+D:\Akhila\INTERVIEWS\ShopBridge\ShopBridgeSolutions\ShopBridgeDAL\bin\Debug\ShopBridgeEntities.pdb
